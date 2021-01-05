@@ -58,3 +58,8 @@ An alternative approach is to use a person's location history instead of requiri
 ### Adding check-out time
 
 Check-out time could be enabled as easily with either version of the app.  I note that this is already under discussion for some of the state-based apps.
+
+
+## Limitations and open questions
+
+Although the automated diary style is much better for privacy overall than Option 1, there are still privacy implications to consider, particularly for an adversary who controls, or gains control of, the device.  For some users, a plaintext list of the venues they have visited may not be acceptable.  We need to consider whether the anonymous IDs (such as PIN codes) are sufficient to ameliorate the problem, when they can be easily re-identified, particularly if the venue is listed as an exposure site.  We should also consider whether the diary could be stored encrypted. It might help to look at how the New Zealand or UK apps deal with this challenge.
