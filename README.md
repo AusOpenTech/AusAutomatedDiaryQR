@@ -18,9 +18,7 @@ Option 1: the person is invited to upload their name and phone number, along wit
 
 Option 2: the person's device makes a record of the venue's name or ID (which it gets from the QR code), along with the date and time.  This is called an 'automated diary' and is used in New Zealand and the UK.  Health authorities provide an electronically-accessible list of public exposure sites, which the app regularly queries.  When a person's diary entry matches a public exposure site at the correct time, the app immediately notifies the user.
 
-There are pros and cons for each approach.  Option 1 allows for human-centred contact tracing, where people are notified by a person rather than an app.  It also allows for 
-
-enforcement or gentler forms of encouragment of quarantine if necessary.  Option 2 allows for almost-immediate notification, which may be significant for disease control during outbreaks when human contact tracers may experience delays.  Also, it may be acceptable to people who do not consent to centralised uploading of their data (the ones who write 'mickey mouse' and enter someone else's phone number).
+There are pros and cons for each approach.  Option 1 allows for human-centred contact tracing, where people are notified by a person rather than an app.  It also allows for enforcement or gentler forms of encouragment of quarantine if necessary.  Option 2 allows for almost-immediate notification, which may be significant for disease control during outbreaks when human contact tracers may experience delays.  Also, it may be acceptable to people who do not consent to centralised uploading of their data (the ones who write 'mickey mouse' and enter someone else's phone number).
 
 We do not have to choose between these options - we can do both!
 
